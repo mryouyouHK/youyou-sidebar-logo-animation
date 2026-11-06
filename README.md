@@ -1,0 +1,2 @@
+# youyou-sidebar-logo-animation
+Morphs the sidebar whale and sweeps a marquee across DEEPSEEK HARNESS while a session generates, marks conversation titles with a whale icon, plays a whale-dive animation while a conversation loads, and draws a light rotating rainbow ring around any focused composer.
